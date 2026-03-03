@@ -1,10 +1,10 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CameraControllerFPS" preserve="all" />
+    <type fullname="ExamRoom_cameraController" preserve="all" />
     <type fullname="MouseClickRaycast" preserve="all" />
     <type fullname="PlayerMovementCC" preserve="all" />
     <type fullname="SceneLoader" preserve="all" />
-    <type fullname="SpaceFlyCameraController" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
